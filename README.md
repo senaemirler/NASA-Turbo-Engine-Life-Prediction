@@ -1,5 +1,22 @@
 # NASA-Turbo-Engine-Life-Prediction
-ENG: The C-MAPSS system developed by NASA is a powerful tool designed to study engine degradation, with a particular focus on turbofan engines. Turbofan engines are widely used in the aviation industry, powering everything from commercial airliners to military aircraft. However, these engines are subject to degradation over time, and if left unchecked, can fail mid-air, with potentially catastrophic consequences.
+ENG BELOW
+NASA tarafından geliştirilen C-MAPSS sistemi, özellikle turbofan motorlarına odaklanarak motor bozulmasını incelemek için tasarlanmış güçlü bir araçtır. Turbofan motorları, ticari uçaklardan askeri uçaklara kadar her şeye güç sağlayan havacılık endüstrisinde yaygın olarak kullanılmaktadır. Bununla birlikte, bu motorlar zamanla bozulmaya tabidir ve kontrol edilmezse, potansiyel olarak feci sonuçlara yol açacak şekilde havada arızalanabilir.
+
+C-MAPSS sisteminin önemini anlamak için, öncelikle bir turbofan motorunun farklı bileşenlerini ve çalışma sırasında her bir bileşende meydana gelen bozulmayı anlamak esastır. Bir turbofan motor, fan, düşük basınçlı kompresör (LPC), yüksek basınçlı kompresör (HPC), düşük basınçlı türbin (LPT) ve yüksek basınçlı türbin (HPT) dahil olmak üzere çeşitli bileşenlere sahiptir. Çalışma sırasında, bu bileşenlerin her biri aşınmaya ve yıpranmaya tabidir ve bu da zamanla bozulmalarına neden olabilir. Bu bileşenlerden herhangi birindeki bozulma düzeyi belirli bir eşiği aşarsa, motor arızalı kabul edilir.
+
+Havacılıkta motor çalışmasının kritik doğası göz önüne alındığında, motor arızasını meydana gelmeden önce tespit etmek çok önemlidir. Geleneksel olarak, bu, kalkıştan önce maliyetli ve zaman alıcı olabilen düzenli denetimlerle yapılır. Daha etkili ve verimli bir çözüme duyulan ihtiyaç açıktır ve C-MAPSS sisteminin devreye girdiği yer burasıdır.
+
+C-MAPSS sistemi, proaktif bakıma izin vererek ve havada motor arızası riskini önleyerek olası motor arızalarına karşı erken uyarı sağlamak üzere tasarlanmıştır. Sistem, bir turbofan motorunun çeşitli bileşenlerinden gelen verileri analiz ederek bozulma belirtilerini algılayabilir ve motorun kalan kullanım ömrünü (RUL) tahmin edebilir. Bu bilgi, bakım ekiplerinin motor arızasını önlemek için proaktif önlemler almasına, kalkıştan önce maliyetli ve zaman alan denetimlere olan ihtiyacı ortadan kaldırmasına olanak tanır.
+
+C-MAPSS sisteminin nihai amacı, motorun RUL'unu ne çok erken ne de çok geç olmadan doğru bir şekilde tahmin ederek gereksiz para israfını önlerken aynı zamanda havada insan hayatını tehlikeye atabilecek motor arızası riskini ortadan kaldırmaktır. Bu nedenle kestirimci bakım sistemi, proaktif bakıma izin veren ve katastrofik motor arızası riskini azaltan, havacılık güvenliğinin temel bir bileşenidir.
+
+Sonuç olarak, NASA tarafından geliştirilen C-MAPSS sistemi, özellikle turbofan motorlarda motor bozulmasını incelemek için kritik bir araçtır. Olası arızalar için erken uyarı sağlayan sistem, proaktif bakıma olanak tanır ve havada katastrofik motor arızası riskini azaltır. Sistemin nihai amacı, motorun RUL'unu doğru bir şekilde tahmin ederek gereksiz para israfını önlerken aynı zamanda yolcuların ve mürettebatın güvenliğini sağlamaktır.
+
+******
+
+
+
+The C-MAPSS system developed by NASA is a powerful tool designed to study engine degradation, with a particular focus on turbofan engines. Turbofan engines are widely used in the aviation industry, powering everything from commercial airliners to military aircraft. However, these engines are subject to degradation over time, and if left unchecked, can fail mid-air, with potentially catastrophic consequences.
 
 To understand the importance of the C-MAPSS system, it is essential to first understand the different components of a turbofan engine and the degradation that occurs in each component during operation. A turbofan engine has several components, including the fan, low-pressure compressor (LPC), high-pressure compressor (HPC), low-pressure turbine (LPT), and high-pressure turbine (HPT). During operation, each of these components is subject to wear and tear, which can cause them to degrade over time. If the degradation level in any of these components exceeds a certain threshold, the engine is considered to have failed.
 
